@@ -13,7 +13,7 @@ def tarjimon():
 
         # Dasturdan chiqish uchun
         if soz.lower() in ['exit', 'stop', 'chiqish']:
-            print("Dastur tugatildi.")
+            print("Dastur tugatildi.") 
             break
 
         try:
